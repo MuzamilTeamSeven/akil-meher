@@ -31,6 +31,9 @@ module.exports = {
       maxWidth: {
         '2xl': '40rem',
       },
+      translate: {
+        '-1/4': '-29%',
+      },
     },
   },
   plugins: [formsPlugin, headlessuiPlugin],
